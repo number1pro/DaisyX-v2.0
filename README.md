@@ -24,7 +24,7 @@
 ## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=number1pro/DaisyX-v2.0.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/number1pro/DaisyX-v2.0.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
